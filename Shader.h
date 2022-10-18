@@ -1,6 +1,3 @@
-
-
-
 /*Shader class*/
 
 #ifndef SHADER_H
@@ -101,5 +98,3 @@ public:
 };
 
 #endif
-    
-
