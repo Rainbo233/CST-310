@@ -21,6 +21,7 @@
 #include <stdlib.h> // standard definitions
 #include <math.h> // math definitions
 #include <stdio.h> // standard I/O
+#include <glm/glm.hpp>
 
 // include files are in a slightly different location for MacOS
 #ifdef __APPLE__
